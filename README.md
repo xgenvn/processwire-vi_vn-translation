@@ -1,4 +1,4 @@
-### BẢN DỊCH NGÔN NGỮ TIẾNG VIỆT HỆ THÔNG QUẢN LÝ NỘI DUNG PROCESSWIRE
+### BẢN DỊCH NGÔN NGỮ TIẾNG VIỆT HỆ THỐNG QUẢN LÝ NỘI DUNG PROCESSWIRE
 Bản dịch này được dịch tay sang tiếng Việt cho hệ thống quản lý nội dung (CMF/CMS) ProcessWire.
 
 
